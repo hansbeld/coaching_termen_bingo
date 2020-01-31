@@ -1,1 +1,7 @@
-# coaching_termen_bingo
+# coaching termen bingo
+
+Groeikracht
+Inspiratie
+Verwondering
+Magie
+Bezieling
