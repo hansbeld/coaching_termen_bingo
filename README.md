@@ -10,4 +10,7 @@
 - sensitief
 - geluk
 - lifestyle
--
+- Teamsessie
+- Bagage
+- Rugzakje
+- Ervaringsdeskundige
