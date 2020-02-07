@@ -14,3 +14,4 @@
 - Bagage
 - Rugzakje
 - Ervaringsdeskundige
+- synergie
